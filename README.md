@@ -41,7 +41,7 @@ Glove (flex sensors + MPU6050)
 | 3.7V 1000mAh LiPo battery | Portable power |
 | Cotton glove + jumper wires | Sensor mounting (prototype wiring — no conductive thread yet) |
 
-*(Add a wiring diagram / photo of the assembled glove here — this is the single highest-value addition for a hardware repo.)*
+![Wiring diagram showing ESP32, MPU-6050, and flex sensor voltage dividers](docs/wiring_diagram.png)
 
 ## Repository Structure
 
@@ -105,4 +105,4 @@ python scripts/predict_live.py     # run live recognition
 
 ## License
 
-*(Choose one — MIT is common for hobby hardware/ML repos. Add a `LICENSE` file.)*
+This repository is shared for portfolio and demonstration purposes only. All rights reserved — please contact me before reusing any part of this code commercially.
