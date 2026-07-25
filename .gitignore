@@ -1,7 +1,6 @@
 # Data & model artifacts (large / personal — regenerate instead of committing)
 *.csv
 *.pkl
-*.png
 
 # Python
 __pycache__/
